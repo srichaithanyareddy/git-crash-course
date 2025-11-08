@@ -7,3 +7,6 @@ function myname(){
 function isAbove18(){
     return age>=18;
 }
+function newFn(){
+    console.log("Hey I am new fn")
+}
