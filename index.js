@@ -12,4 +12,5 @@ function newFn(){
 }
 function newFeature(){
     console.log("this is new feature")
+    console.log("this is new feature again")
 }
