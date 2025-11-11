@@ -10,3 +10,6 @@ function isAbove18(){
 function newFn(){
     console.log("Hey I am new fn")
 }
+function newFeature(){
+    console.log("this is new feature")
+}
